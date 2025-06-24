@@ -76,7 +76,14 @@ Given a dataset of energy consumption from various sources (households, warehous
 
 ## 📸 Visualizations
 
-*(Embed sample plots or add images here – e.g., cluster heatmaps, energy usage timelines, elbow graph for K selection)*
+![image](https://github.com/user-attachments/assets/2383961a-6f27-4b0e-b8c7-7268c8475646)
+![image](https://github.com/user-attachments/assets/387c8e67-b761-4dbb-8ac2-82dd6741ab7a)
+![image](https://github.com/user-attachments/assets/9f4d9410-c7fd-4040-9986-b6ff3d23b99f)
+![image](https://github.com/user-attachments/assets/61c6279a-f26d-458c-873d-b03803f4dbe4)
+
+
+
+
 
 ---
 
